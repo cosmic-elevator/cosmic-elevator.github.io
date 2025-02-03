@@ -1,7 +1,7 @@
-name: "Jekyll true minimal theme"
-description: "Lightweight theme"
+name: "cosmic-elevator"
+description: "코엘의 블로그"
 
-url: '' 
+url: 'blog.tejava.xyz' 
 baseurl: ''
 
 markdown: kramdown
